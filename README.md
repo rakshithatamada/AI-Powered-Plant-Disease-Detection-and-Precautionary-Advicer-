@@ -23,10 +23,13 @@
  
  1.Clone the repository:
     git clone https://github.com/rakshithatamada/AI-PoweredPlantDiseaseDetection&PrecautionaryAdvicer.git
+    
  2.Navigate to the project directory:
      cd "AI-Powered Plant Disease Detection & Precautionary Advicer"
+     
  3.Install dependencies:
     pip install -r requirements.txt
+    
  4.Run the app:
     streamlit run app.py
 
